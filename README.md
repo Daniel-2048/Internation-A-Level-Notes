@@ -4,7 +4,7 @@
 
 It is a personal project to store the Markdown of Notes I created while studying the Internation A-Level, aims to share these Notes with my friends and all of you.
 
-The files will continue updating until I finish my study。
+The files will be continually updating until I finish my study。
 
 ## 关于本项目
 
